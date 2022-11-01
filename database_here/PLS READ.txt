@@ -1,0 +1,1 @@
+XAMPP server mein db_sars naamka database krke, ye sql file upload krdo, agar kuch dikkat aa rahi hai toh call kr lena
